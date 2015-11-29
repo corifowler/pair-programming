@@ -1,0 +1,6 @@
+{
+  "name": "tiy-cori-week4-pair-programming",
+  "root": "app",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
